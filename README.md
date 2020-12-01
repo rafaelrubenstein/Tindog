@@ -1,2 +1,1 @@
-# Tindog
-Fake landing page for startup
+TinDog Starting Files
